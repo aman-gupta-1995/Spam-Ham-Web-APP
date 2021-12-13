@@ -38,7 +38,3 @@ To check out this project in action I've deployed it on heroku
 - Implement login and tailor experience for each user
 - Collect the result reported by user for false classification of messages/email
 - Model will self-learn from the reported data
-
-Made with :heart: by
-**Aditya Kaushik**  - [linkedin.com/adityakaushik001](https://www.linkedin.com/in/adityakaushik01/)
-
