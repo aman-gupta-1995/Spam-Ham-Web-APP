@@ -5,7 +5,7 @@ SpamHam
 SpamHam is a text-classification app which detects whether the message/email is spam or not. I've used Naive-Bayes along with NLP (TF-IDF, Bag of Words and more). 
 In order to perform an experiment I've combined two datasets (Enron email spam/ham and SMS spam classification) into one to gather more data. See this notebook to get what I am saying. 
 To check out this project in action I've deployed it on heroku Click on this link to check
-
+ 
 Built With 
 
 Django 2.1 
