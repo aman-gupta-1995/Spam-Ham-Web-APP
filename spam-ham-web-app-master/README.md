@@ -11,7 +11,7 @@ To check out this project in action I've deployed it on heroku
 1. Django 2.1
 2. Python 3.6
 3. Scikit-Learn
-4. Numpy
+4. Numpy 
 5. Pandas
 6. Matplotlib
 7. Seaborn
