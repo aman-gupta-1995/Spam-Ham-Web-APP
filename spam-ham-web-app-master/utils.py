@@ -1,6 +1,6 @@
 import string
 from nltk.corpus import stopwords
-
+ 
       
 def text_process(message):   
     noPunc = [char for char in message if char not in string.punctuation]    
