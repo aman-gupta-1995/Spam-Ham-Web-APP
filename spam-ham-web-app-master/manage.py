@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys 
-import pickle
+import pickle 
 from utils import text_process 
  
 
