@@ -3,7 +3,7 @@ import os
 import sys 
 import pickle 
 from utils import text_process 
- 
+  
 
 def importPipelines():
     pipeline = pickle.load(open('text_clf_pipeline.pkl', 'rb'))
