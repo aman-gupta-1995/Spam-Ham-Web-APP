@@ -2,7 +2,7 @@
 import os 
 import sys  
 import pickle
-from utils import text_process   
+from utils import text_process  
    
 
 def importPipelines():
