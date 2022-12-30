@@ -1,6 +1,6 @@
 certifi==2018.8.24
 click==6.7
-dj-database-url==0.5.0
+dj-database-url==0.5.0 
 Django==2.1  
 Flask==1.0.2    
 gunicorn==19.9.0        
